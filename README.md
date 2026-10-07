@@ -1,19 +1,13 @@
 # Hi, I'm [Your Name] 👋
 
 <p align="left">
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://tu-portfolio.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-**Software Engineer** based in [Your City, Country] 🌍 (Open to remote worldwide)  
-*Building scalable backend systems, robust APIs, and automation pipelines.*
+**Software Engineer** based in Spain 🌍 (Open to remote worldwide)  
+*Building innovative systems, robust APIs, and automation pipelines.*
 
 ---
 
